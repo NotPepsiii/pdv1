@@ -1,0 +1,6 @@
+{
+  "name": "PepDownloader",
+  "description": "A high-performance client-side media downloader simulation supporting YouTube, TikTok, and Instagram with high-definition formats and actual local directory output selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
